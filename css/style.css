@@ -57,6 +57,14 @@ textarea {
 	width:1200px;
 	margin:0 auto;
 }
+.no-flexbox .container{
+	display: block;
+}
+.no-flexbox .item{
+	width:27%;
+	margin-right:1%;
+	float:left;
+}
 .item{
 	background-color: #f5f4f9;
 	padding: 25px 100px;
