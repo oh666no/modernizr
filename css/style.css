@@ -71,7 +71,7 @@ textarea {
 }
 .no-borderradius .white_bg{
 	border-radius: 80%;
-	behavior: url(../js/PIE.htc);
+	behavior: url('../js/PIE.htc');
 }
 .white_bg{
 	background-color: red;
