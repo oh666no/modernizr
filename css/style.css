@@ -70,8 +70,7 @@ textarea {
 	padding: 25px 100px;
 }
 .no-borderradius .white_bg{
-	border-top-left-radius: 80%;
-	border-top-right-radius: 80%;
+	border-radius: 80%;
 	behavior: url(../js/PIE.htc);
 }
 .white_bg{
