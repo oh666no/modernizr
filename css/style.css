@@ -1,5 +1,5 @@
 body{
-
+	background-color: #9789f9;
 }
 
 /* Layout */
@@ -50,4 +50,14 @@ select:focus {
 }
 textarea {
 
+}
+.container{
+	display: flex;
+	justify-content: space-around;
+	width:1200px;
+	margin:0 auto;
+}
+.item{
+	background-color: #f5f4f9;
+	padding: 25px 100px;
 }
